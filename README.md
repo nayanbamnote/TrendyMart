@@ -1,4 +1,4 @@
-# eCommerce Website
+# TrendyMart
 
 ## Overview
 
